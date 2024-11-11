@@ -1,0 +1,13 @@
+export const CHART_CONSTANTS = {
+    INITIAL_DATA_COUNT: 100,
+    HISTORICAL_LOAD_COUNT: 50,
+    UPDATE_INTERVAL: 1000, // 1 second
+    DEFAULT_CHART_HEIGHT: 500,
+};
+
+export const PRICE_CONSTANTS = {
+    BASE_PRICE: 100,
+    VOLATILITY: 2,
+}; 
+
+
