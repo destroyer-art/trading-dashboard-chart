@@ -53,4 +53,4 @@ docker build -t trading-chart-app .
 docker run -p 3000:3000 trading-chart-app
 ```
 
-The application will be available at `http://localhost:3000`
+The application will be available at `http://localhost:3000`![image](https://github.com/user-attachments/assets/eb8d7069-6d4d-449b-bc3c-7904f97582d1)
